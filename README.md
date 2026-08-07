@@ -1,6 +1,18 @@
 # Olá, eu sou o CDiangell 👋
 
-Desenvolvedor de Aplicações Web, Progressive Web Apps (PWAs), Integrações de Banco de Dados em Tempo Real (Supabase) e Plataformas Interativas.
+⚡ **Vibe Coder & Entregador de Soluções com Inteligência Artificial**
+
+> *"Prefiro ser 100% transparente: programar código do zero? Sei bem pouco — e não perco tempo reinventando a roda. Se posso resolver com Inteligência Artificial e entregar sistemas completos em tempo recorde, é isso que eu uso."*
+
+Sou focado em **resolver problemas reais de logística, sistemas empresariais e plataformas interativas** orquestrando I.A.s e ferramentas modernas para construir produtos prontos para produção.
+
+---
+
+### 🧠 Minha Filosofia (Vibe Coding)
+
+- **Foco no Resultado & Velocidade:** Em vez de passar meses escrevendo código manualmente, utilizo I.A. para conceber, desenvolver e publicar aplicações completas.
+- **Transparência Total:** Priorizo a **regra de negócio, a experiência do usuário (UX/UI) e a solução final funcionando**.
+- **Sistemas de Alto Impacto:** Do banco de dados em tempo real até interfaces dinâmicas e PWAs instaláveis.
 
 ---
 
@@ -18,8 +30,8 @@ Desenvolvedor de Aplicações Web, Progressive Web Apps (PWAs), Integrações de
 
 ---
 
-### 🛠️ Tecnologias & Ferramentas
+### 🛠️ Stacks & Ferramentas Orquestradas
 
-- **Frontend:** JavaScript (ES6+), TypeScript, React, HTML5, Tailwind CSS, Vite, PWAs
+- **Metodologia:** Vibe Coding • Desenvolvimento Acelerado por I.A. • Engenharia de Prompts • Soluções de Negócio
+- **Frontend & PWA:** JavaScript (ES6+), TypeScript, React, HTML5, Tailwind CSS, Vite, Service Workers (Network-First)
 - **Backend & Cloud:** Supabase (PostgreSQL, Subscrições Realtime, RLS, Auth)
-- **Logística & Regras de Negócio:** Gestão de Estoques Industriais/Comerciais, Análise SD2, Alertas de Validade
