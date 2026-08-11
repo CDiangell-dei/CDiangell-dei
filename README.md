@@ -2,7 +2,7 @@
 
 ⚡ **Vibe Coder & Entregador de Soluções com Inteligência Artificial**
 
-> *"Prefiro ser 100% transparente: programar código do zero? Sei bem pouco — e não perco tempo reinventando a roda. Se posso resolver com Inteligência Artificial e entregar sistemas completos em tempo recorde, é isso que eu uso."*
+> *"Prefiro ser 100% transparente: programar código do zero? Sei fazer sim — e não perco tempo reinventando a roda. Se posso resolver com Inteligência Artificial e entregar sistemas completos em tempo recorde, é isso que eu uso."*
 
 Sou focado em **resolver problemas reais de logística, sistemas empresariais e plataformas interativas** orquestrando I.A.s e ferramentas modernas para construir produtos prontos para produção.
 
