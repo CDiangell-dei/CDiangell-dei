@@ -1,6 +1,6 @@
 <div align="center">
 
-# Salmo Oliveira (CDiangell) 👋
+# CDiangell 👋
 ### **Software Solutions Architect • Full-Stack & Systems • AI-Augmented Engineering**
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=CDiangell-dei&theme=tokyonight&hide_border=true)](https://github.com/CDiangell-dei)
